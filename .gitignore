@@ -1,0 +1,44 @@
+# Данные программы и результаты замеров
+data/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+.vscode/
+
+# Скомпилированные файлы и архивы
+*.class
+*.jar
+*.war
+
+# Файлы экспорта и копии баз
+*.xlsx
+*.xls
+*.dat
+*.idx
+
+# Логи и временные файлы
+*.log
+*.tmp
+hs_err_pid*
+
+# Системные файлы
+.DS_Store
+Thumbs.db
